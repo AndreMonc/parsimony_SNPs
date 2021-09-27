@@ -20,5 +20,6 @@ heterozygous sites before SNP thinning. This guarantees that any "representative
 
 ## Citation
 
+[![DOI](https://zenodo.org/badge/411024089.svg)](https://zenodo.org/badge/latestdoi/411024089)
 
-**Moncrieff, A.E.** 2021. Parsimony SNPs v1.0: a program to identify parsimony-informative SNPs in VCF files.
+**Moncrieff, A.E.** 2021. Parsimony SNPs v1.0: a program to identify parsimony-informative SNPs in VCF files. DOI:10.5281/zenodo.5532931
